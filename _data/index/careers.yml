@@ -18,7 +18,7 @@
     detail: Alpha2Fund
     i18n: company_b
   desc:
-    detail: This is my recent summer internship in a Beijing hedge fund. Please see this l ink for sample codes and reports.
+    detail: 'This is my recent summer internship in a Beijing hedge fund. Please see this link for sample codes and reports.'
     i18n: company_b_desc
   date:
     detail: Jun. 2018 - Sep. 2018
