@@ -29,18 +29,18 @@
   icon: fa-plus-square
 
 
-  - name:
-      detail: Ocean University of China
-      i18n: company_a
-    desc:
-      detail: Monte Carlo simulation of Fisheries stock evaluation;
+- name:
+    detail: Ocean University of China
+    i18n: company_a
+  desc:
+    detail: Monte Carlo simulation of Fisheries stock evaluation;
 Created random forest regression model to evaluate the estimated cost of improving environment condition based on the analysis of the monitoring data on pollutants in 2005-2008;
 Selected different pollution features by AIC criteria and developed a KNN classifier to identify unlabeled population data with 96% accuracy according to cross-validation.
-      i18n: company_a_desc
-    date:
-      detail: Oct. 2015 - Oct. 2016
-      i18n: company_a_date
-    job:
-      detail: Research Assistant
-      i18n: company_a_job
-    icon: fa-plus-square
+    i18n: company_a_desc
+  date:
+    detail: Oct. 2015 - Oct. 2016
+    i18n: company_a_date
+  job:
+    detail: Research Assistant
+    i18n: company_a_job
+  icon: fa-plus-square
