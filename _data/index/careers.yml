@@ -7,7 +7,7 @@
     detail: I worked at Company A ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Janurary. 2019 - Present
     i18n: company_a_date
   job:
     detail: CTO
@@ -15,15 +15,15 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Alpha2Fund
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: This is my recent summer internship in a Beijing hedge fund. Please see this l ink for sample codes and reports.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2018 - Sep. 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Intern, Machine Learning Quantitative Researcher
     i18n: company_b_job
   icon: fa-plus-square
