@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, ML & statistics, SQL,  AWS, Linux, Deep Learning, R
-percentage: 90, 90, 90, 80, 80, 80, 60
+aspects: Python, ML & Stats, SQL, AWS, Linux, Deep Learning, R, Azure, IBM Cloud
+percentage: 90, 90, 90, 80, 80, 80, 60, 60, 60
