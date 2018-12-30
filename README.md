@@ -3,7 +3,7 @@
 
 
 Here I followed this sourse:
-<https://jarrekk.github.io/Jalpc/>
+<http://www.jarrekk.com/>
 
 
 A personal website for collecting my past experience and projects. 
