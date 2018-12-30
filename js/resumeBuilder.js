@@ -57,28 +57,32 @@ var education = {
 var work = {
   'jobs': [
     {
+      'employer': 'SOFWERX',
+      'title': "Data Scientist Intern",
+      'location': "Tampa, FL",
+      'dates': "Dec.2018-present",
+      'description': "In progress."
+    },
+    {
+      'employer': "Alpha2Fund",
+      'title': 'Intern, Machine Learning Quantitative Researcher',
+      'location': 'Beijing, China',
+      'dates': 'June 2018-Sep 2018',
+      'description': "• Designed new Alpha factor combination pipeline by implementing ensemble machine learning algorithms, encompassing LR, RF, MLP, kNN,
+XGBoost, for decision making in stock market, utilizing hundreds of alpha factors in commodity future market.
+• Improved information correlation from 1.16 with the linear combination baseline to 1.57 by forecasting long/short position of specific stocks by
+training GARCH(for single stock) and GRU(for multiple stocks) on stock alpha factors.
+• Accelerated minute level stock prediction by 20% by replacing XGBoost based model with a lightGBM based model for factors combination."
+    },
+    {
+      'employer': 'Kellogg School of Management',
+      'title': 'Research Assistant',
+      'location': 'Evanston, IL',
+      'dates': 'April,2018-July, 2018',
+      'description': " Redesigned data preprocessing procedure for recognizing handwritten documents from an Indian hospital dataset; Improved classification accuracy by 14% with a fine-tuning Convolutional Neural Network (CNN)."
+    },
+    {
       'employer': '',
-      'title': ,
-      'location': ,
-      'dates': ,
-      'description':
-    },
-    {
-      'employer': ,
-      'title': ,
-      'location': ,
-      'dates': ,
-      'description':
-    },
-    {
-      'employer': ,
-      'title': ,
-      'location': ,
-      'dates': ,
-      'description':
-    },
-    {
-      'employer': ,
       'title': ,
       'location': ,
       'dates': ,

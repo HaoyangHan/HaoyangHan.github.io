@@ -6,17 +6,17 @@
   gh_user: HaoyangHan
   repo: 2018SummerIntern
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Last Summer Internship based on python, Linux, ML and DL.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: Coursework
+  i18n: # cpython
+  gh_user: HaoyangHan
+  repo: Course_codes
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: All sample coursework of myself.
 
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: Other Project
+  i18n: # google
+  url: https://haoyanghan.github.io
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Still Under Construction.
