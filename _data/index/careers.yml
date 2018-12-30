@@ -71,7 +71,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Ocean University of China
+    detail: Fishery College, OUC
     i18n: company_a
   desc:
     detail: 'Monte Carlo simulation of Fisheries stock evaluation, calculating biostatiscal feature of simulated data.'
@@ -85,7 +85,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Ocean University of China
+    detail: Fishery ecosystem moniter and evaluation Laboratory, OUC
     i18n: company_a
   desc:
     detail: leader of SRDP(Student Research Development Program), linear regression and RF application on fisheries data.
