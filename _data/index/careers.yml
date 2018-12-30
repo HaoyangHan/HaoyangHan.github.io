@@ -18,7 +18,7 @@
     detail: Alpha2Fund
     i18n: company_b
   desc:
-    detail: 'This is my recent summer internship in a Beijing hedge fund. Please see this link for sample codes and reports.'
+    detail: 'This is my recent summer internship in a Beijing hedge fund. During the internship I used time seires data and machine learning techniques to predict stock value. Please see below project session for sample codes and reports.'
     i18n: company_b_desc
   date:
     detail: Jun. 2018 - Sep. 2018
@@ -28,12 +28,53 @@
     i18n: company_b_job
   icon: fa-plus-square
 
+- name:
+    detail: Kellogg School of Management
+    i18n: company_b
+  desc:
+    detail: 'Basic CNN work. Re-structure data pre-processing procedure, develop faster r-cnn by tensorflow.'
+    i18n: company_b_desc
+  date:
+    detail: Apr. 2018 - Jul. 2018
+    i18n: company_b_date
+  job:
+    detail: Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Peltast Partner
+    i18n: company_b
+  desc:
+    detail: 'Calculated statistical feature and create report; Heatmap; Cleaned text dataset using python.'
+    i18n: company_b_desc
+  date:
+    detail: Jly. 2017 - Aug. 2017
+    i18n: company_b_date
+  job:
+    detail: Data Analyst Intern
+    i18n: company_b_job
+  icon: fa-plus-square
 
 - name:
     detail: Ocean University of China
     i18n: company_a
   desc:
-    detail: Monte Carlo simulation of Fisheries stock evaluation, Created random forest regression model to evaluate the estimated cost of improving environment condition based on the analysis of the monitoring data on pollutants in 2005-2008, Selected different pollution features by AIC criteria and developed a KNN classifier to identify unlabeled population data with 96% accuracy according to cross-validation.
+    detail: 'Monte Carlo simulation of Fisheries stock evaluation, calculating biostatiscal feature of simulated data.'
+    i18n: company_a_desc
+  date:
+    detail: Mar. 2017 - Jun. 2016
+    i18n: company_a_date
+  job:
+    detail: Capstone Thesis
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Ocean University of China
+    i18n: company_a
+  desc:
+    detail: leader of SRDP(Student Research Development Program), GLM application on fisheries data.
     i18n: company_a_desc
   date:
     detail: Oct. 2015 - Oct. 2016
