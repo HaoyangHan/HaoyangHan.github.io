@@ -43,13 +43,27 @@
   icon: fa-plus-square
 
 - name:
+    detail: Northwestern University
+    i18n: company_a
+  desc:
+    detail: M.S. Project Management, McCormick School of Engineering
+    i18n: company_a_desc
+  date:
+    detail: Sep. 2017 - Dec. 2018
+    i18n: company_a_date
+  job:
+    detail: Graduate Student
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Peltast Partner
     i18n: company_b
   desc:
     detail: 'Calculated statistical feature and create report; Heatmap; Cleaned text dataset using python.'
     i18n: company_b_desc
   date:
-    detail: Jly. 2017 - Aug. 2017
+    detail: Jul. 2017 - Aug. 2017
     i18n: company_b_date
   job:
     detail: Data Analyst Intern
@@ -81,5 +95,19 @@
     i18n: company_a_date
   job:
     detail: Research Assistant
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Ocean University of China
+    i18n: company_a
+  desc:
+    detail: B.S. of Marine Science, Marine Recourse and Environment.
+    i18n: company_a_desc
+  date:
+    detail: Oct. 2015 - Oct. 2016
+    i18n: company_a_date
+  job:
+    detail: Undergraduate Student
     i18n: company_a_job
   icon: fa-plus-square
