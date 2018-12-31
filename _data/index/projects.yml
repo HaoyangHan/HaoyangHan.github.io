@@ -12,7 +12,7 @@
   i18n: # cpython
   gh_user: HaoyangHan
   repo: Course_codes
-  img: /static/assets/img/landing/nu.png
+  img: /static/assets/img/landing/nu.jpg
   desc: All sample coursework of myself.
 
 - name: Other Project
