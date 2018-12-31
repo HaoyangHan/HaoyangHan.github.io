@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi, this is Haoyang Han. I graduate from Northwestern University, and currently seeking for Data Science/Analytical Position. Python, SQL, AWS, Torch, pyspark, lightgbm. Please contact me via email if interested!  # Describe yourself.
+  desc: Hi, this is Haoyang Han, a master student at Northwestern University. This website is designed for sharing interesting ML problems and showing past experience. I'm currently seeking for Data Science/Analytical Position. Python, SQL, AWS, Torch, pyspark, lightgbm. Please contact me via email if interested!  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
