@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: HaoyangHan  # Be used at blog posts' author.
   first_name: Haoyang  # Be used at index page about me section.
   last_name: Han  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/my_avatar.jpg  # upload your avatar at directory and edit it.
   github_username: HaoyangHan  # Leave blank if you don't have now
   linkedin_id: haoyanghan # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
