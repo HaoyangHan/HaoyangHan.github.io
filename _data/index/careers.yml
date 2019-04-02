@@ -1,13 +1,28 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Internet Brands
+    i18n: company_a
+  desc:
+    detail: 'Individual project contributor to natural language processing tasks.'
+    i18n: company_a_desc
+  date:
+    detail: mar. 2019 - Present
+    i18n: company_a_date
+  job:
+    detail: Data Scientist Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
 - name:
     detail: Sofwerx
     i18n: company_a
   desc:
-    detail: Start in Janurary
+    detail: 'GPS Anomalies detection. Designed a pipeline for classification using multiple models.'
     i18n: company_a_desc
   date:
-    detail: Jan. 2019 - Present
+    detail: Jan. - Mar. 2019
     i18n: company_a_date
   job:
     detail: Data Science Intern
